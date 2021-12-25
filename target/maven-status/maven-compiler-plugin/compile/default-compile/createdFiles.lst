@@ -1,0 +1,16 @@
+com\reto45\sa\g26\mercader\reto\controller\UserController.class
+com\reto45\sa\g26\mercader\reto\repository\crud\OrderCrudRepository.class
+com\reto45\sa\g26\mercader\reto\repository\OrderRepository.class
+com\reto45\sa\g26\mercader\reto\service\GadgetService.class
+com\reto45\sa\g26\mercader\reto\repository\crud\UserCrudRepository.class
+com\reto45\sa\g26\mercader\reto\RetoApplication.class
+com\reto45\sa\g26\mercader\reto\model\Order.class
+com\reto45\sa\g26\mercader\reto\repository\UserRepository.class
+com\reto45\sa\g26\mercader\reto\service\OrderService.class
+com\reto45\sa\g26\mercader\reto\controller\OrderController.class
+com\reto45\sa\g26\mercader\reto\model\Gadget.class
+com\reto45\sa\g26\mercader\reto\service\UserService.class
+com\reto45\sa\g26\mercader\reto\model\User.class
+com\reto45\sa\g26\mercader\reto\controller\GadgetController.class
+com\reto45\sa\g26\mercader\reto\repository\GadgetRepository.class
+com\reto45\sa\g26\mercader\reto\repository\crud\GadgetCrudRepository.class
